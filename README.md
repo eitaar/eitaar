@@ -9,7 +9,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) | ![Codewas stats](https://www.codewars.com/users/eitaaaar/badges/large)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) | 
+![Codewas stats](https://www.codewars.com/users/eitaaaar/badges/large)
 
 
 <p align="left"> 
