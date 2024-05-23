@@ -9,10 +9,10 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-#
+## I learn coding using...
 <p align="left">
   <img height="25px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
-  |
+  　
   <a href="https://www.codewars.com/users/eitaaaar/" /><img height="25px" src="https://www.codewars.com/users/eitaaaar/badges/large" />
 </p>
 
