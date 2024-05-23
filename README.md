@@ -11,7 +11,8 @@
 
 #
 <p align="left">
-  <a href="https://www.codewars.com/" /><img height="25px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
+  <img height="25px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
+  |
   <a href="https://www.codewars.com/users/eitaaaar/" /><img height="25px" src="https://www.codewars.com/users/eitaaaar/badges/large" />
 </p>
 
