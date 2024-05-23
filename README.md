@@ -8,10 +8,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) | 
-![Codewas stats](https://www.codewars.com/users/eitaaaar/badges/large)
-
+<p align="left">
+  <img height="50px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
+  <img height="50px" src="https://www.codewars.com/users/eitaaaar/badges/large" />
+</p>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=eitaaaaar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
