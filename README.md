@@ -10,7 +10,7 @@
 
 
 #
-<p align="left">
+<p align="left" style="font-size: 25px;">
   <img height="25px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
   |
   <a href="https://www.codewars.com/users/eitaaaar/" /><img height="25px" src="https://www.codewars.com/users/eitaaaar/badges/large" />
