@@ -11,7 +11,8 @@
 
 ## I learn coding using...
 <p align="left">
-  <img height="25px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" /><br/>
+  <img height="25px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
+  <img height="25px" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" /><br/>
   <a href="https://www.codewars.com/users/eitaaaar/" /><img height="25px" src="https://www.codewars.com/users/eitaaaar/badges/large" />
 </p>
 
