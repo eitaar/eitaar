@@ -1,5 +1,6 @@
 
 # (＃°Д°)// Hello
+## Languages that
 
 ### I can use... (not perfect)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
@@ -11,7 +12,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
+## Github Stats
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=eitaar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eitaar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
