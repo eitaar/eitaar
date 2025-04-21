@@ -23,7 +23,7 @@
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/eitaaaaar/eitaaaaar/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/eitaar/eitaar/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ## Discord / Codewars
