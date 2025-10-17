@@ -19,9 +19,9 @@
 
 ## Github Stats
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=eitaar&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eitaar&theme=tokyonight&hide_border=true&layout=compact"/>
-  <img src="https://git-hub-streak-stats.vercel.app?user=eitaar&theme=tokyonight&hide_border=true&card_width=300" alt="GitHub Streak" height="150px"/>
+  <img alt="Top Langs" height="125px" src="https://github-readme-stats.vercel.app/api?username=eitaar&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img alt="github stats" height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eitaar&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img src="https://git-hub-streak-stats.vercel.app?user=eitaar&theme=tokyonight&hide_border=true&card_width=300" alt="GitHub Streak" height="125px"/>
 </p>
 
 
