@@ -21,7 +21,7 @@
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=eitaar&theme=tokyonight&hide_border=true&count_private=true"/>
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eitaar&theme=tokyonight&hide_border=true&layout=compact"/>
-  <img src="https://git-hub-streak-stats.vercel.app/?user=eitaar&theme=tokyonight&card_height=150" alt="GitHub Streak" />
+  <img src="https://git-hub-streak-stats.vercel.app/?user=eitaar&theme=tokyonight&card_height=150" alt="GitHub Streak" height="150px"/>
 </p>
 
 
