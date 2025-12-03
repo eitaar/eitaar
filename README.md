@@ -19,7 +19,7 @@
 
 ## Github Stats
 <p align="left"> 
-  <img alt="Top Langs" height="125px" src="https://github-readme-stats.vercel.app/api?username=eitaar&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img alt="Top Langs" height="125px" src="https://stats.tosh1ki.de/api?show_bg=1&username=eitaar"/>
   <img alt="github stats" height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eitaar&theme=tokyonight&hide_border=true&layout=compact"/>
   <img src="https://git-hub-streak-stats.vercel.app?user=eitaar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="125px"/>
 </p>
