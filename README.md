@@ -25,9 +25,11 @@
 </p>
 
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/eitaar/eitaar/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<picture>
+  <source srcset="https://raw. githubusercontent.com/eitaar/eitaar/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" type="image/svg+xml"/>
+  <source srcset="https://raw.githubusercontent.com/eitaar/eitaar/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" type="image/svg+xml"/>
+  <img src="https://raw.githubusercontent.com/eitaar/eitaar/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" />
+</picture>
 
 ## Discord / Codewars
  <a href="https://discord.com/users/1231271616043028544">
