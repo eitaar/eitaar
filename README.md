@@ -18,10 +18,10 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 ## Github Stats
-<p align="left"> 
+<div align="left"> 
   <img alt="github stats" height="150px" src="https://stats.tosh1ki.de/api?show_bg=1&username=eitaar"/>
   <img src="https://git-hub-streak-stats.vercel.app?user=eitaar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150px"/>
-</p>
+</div>
 
 
 <picture>
