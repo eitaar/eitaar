@@ -30,9 +30,8 @@
   <img src="https://raw.githubusercontent.com/eitaar/eitaar/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" />
 </picture>
 
-## Discord / Codewars
- <a href="https://discord.com/users/1231271616043028544">
- <img src="https://discord.c99.nl/widget/theme-4/1064617191175114943.png">
- <br/>
- <a href="https://www.codewars.com/users/eitaar">
-<img src="https://github.r2v.ch/codewars?user=eitaar&hide_clan=true"/>
+---
+
+<p align="center" >
+  <img src="https://count.getloli.com/@eitaar?name=eitaar&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+</p>
