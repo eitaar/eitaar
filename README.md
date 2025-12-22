@@ -21,7 +21,6 @@
 ## Github Stats
 <div align="left"> 
   <img alt="github stats" height="150px" src="https://stats.tosh1ki.de/api?show_bg=1&username=eitaar"/>
-  <img src="https://git-hub-streak-stats.vercel.app?user=eitaar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150px"/>
 </div>
 
 
