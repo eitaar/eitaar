@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/eitaar/eitaar/a595de90a30db9650b86dbf6c238981a6728415f/smil-anim.svg"/>
+<img src="https://raw.githubusercontent.com/eitaar/eitaar/a595de90a30db9650b86dbf6c238981a6728415f/smil-anim.svg" width=128 height=96/>
 
 # (＃°Д°)// Hello
 
