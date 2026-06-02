@@ -34,6 +34,7 @@
 <div align="center">
   <img alt="github stats" height="160px" src="https://stats.tosh1ki.de/api?show_bg=1&username=eitaar"/>
   <img alt="top langs" height="160px" src="./profile/top-langs.svg"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak" height="160px"/>
 </div>
 
 <br/>
