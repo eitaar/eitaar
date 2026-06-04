@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/eitaar/eitaar/a595de90a30db9650b86dbf6c238981a6728415f/smil-anim.svg" width="128" height="96" alt="logo"/>
-  <h1>(＃°Д°)// Hello</h1>
 </div>
 
 
