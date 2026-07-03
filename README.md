@@ -28,14 +28,14 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
+  <table>
     <tr style="border: none;">
-      <td valign="top" width="50%" style="border: none;">
-        <img alt="github stats" src="https://stats.tosh1ki.de/api?show_bg=1&username=eitaar" height="160px"/><br/>
+      <td valign="top" width="50%">
+        <img alt="github stats" src="./profile/stats.svg" height="160px"/><br/>
         <img src="./profile/streak.svg" alt="GitHub Streak" height="160px"/>
       </td>
-      <td valign="middle" width="50%" style="border: none;">
-        <img alt="top langs" src="./profile/top-langs.svg" width="98%"/>
+      <td valign="middle" width="50%">
+        <img alt="top langs" src="./profile/top-langs.svg" width="100%"/>
       </td>
     </tr>
   </table>
