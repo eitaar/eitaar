@@ -26,15 +26,21 @@
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
 
-
-
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img alt="github stats" height="160px" src="https://stats.tosh1ki.de/api?show_bg=1&username=eitaar"/>
-  <img alt="top langs" height="160px" src="./profile/top-langs.svg"/>
-  <img src="./profile/streak.svg" alt="GitHub Streak" height="160px"/>
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td valign="top" width="50%" style="border: none;">
+        <img alt="github stats" src="https://stats.tosh1ki.de/api?show_bg=1&username=eitaar" height="160px"/><br/>
+        <img src="./profile/streak.svg" alt="GitHub Streak" height="160px"/>
+      </td>
+      <td valign="middle" width="50%" style="border: none;">
+        <img alt="top langs" src="./profile/top-langs.svg" width="98%"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <br/>
 
