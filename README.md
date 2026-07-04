@@ -4,13 +4,15 @@
 
 ### 🛠️ I can use...
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nuxt,vue,tailwind,ts,astro,js,html,css,py&theme=dark" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=nuxt,vue,tailwind,ts,astro,js,html,css,py&theme=dark" alt="skills" />
 </a>
 
 ### 📖 I am learning...
-<a href="https://skillicons.dev">
+<picture>
+  <source srcset="https://skillicons.dev/icons?i=react,rust,pytorch&theme=light" media="(prefers-color-scheme: light)" type="image/svg+xml"/>
+  <source srcset="https://skillicons.dev/icons?i=react,rust,pytorch&theme=dark" media="(prefers-color-scheme: dark)" type="image/svg+xml"/>
   <img src="https://skillicons.dev/icons?i=react,rust,pytorch&theme=dark" alt="learning"/>
-</a>
+</picture>
 
 ### 🚀 I am interested in using...
 <a href="https://skillicons.dev">
