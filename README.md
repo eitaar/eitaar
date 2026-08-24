@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eitaar/eitaar/a595de90a30db9650b86dbf6c238981a6728415f/smil-anim.svg" height="84" alt="video"/>
+  <img src="https://raw.githubusercontent.com/eitaar/eitaar/a595de90a30db9650b86dbf6c238981a6728415f/smil-anim.svg" height="80" alt="video"/>
 </div>
 
 ### 🛠️ I can use...
