@@ -17,6 +17,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,kotlin&theme=dark" alt="interested"/>
 </a>
 
+### Stats
 <div align="center">
   <table>
     <tr style="border: none;">
