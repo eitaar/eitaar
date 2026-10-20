@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="0.00"
           y="0"
-          width="101.27"
+          width="111.80"
           height="8"
           fill="#3178c6"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="101.27"
+          x="111.80"
           y="0"
-          width="82.00"
+          width="76.16"
           height="8"
           fill="#dea584"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="183.26"
+          x="187.96"
           y="0"
-          width="36.03"
+          width="33.47"
           height="8"
           fill="#f1e05a"
         />
@@ -188,9 +188,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="219.29"
+          x="221.42"
           y="0"
-          width="19.77"
+          width="19.08"
           height="8"
           fill="#3572A5"
         />
@@ -198,9 +198,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="229.07"
+          x="230.50"
           y="0"
-          width="16.81"
+          width="16.32"
           height="8"
           fill="#41b883"
         />
@@ -208,9 +208,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="235.87"
+          x="236.82"
           y="0"
-          width="16.17"
+          width="15.73"
           height="8"
           fill="#ff5a03"
         />
@@ -218,9 +218,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="242.04"
+          x="242.55"
           y="0"
-          width="14.08"
+          width="13.84"
           height="8"
           fill="#663399"
         />
@@ -228,9 +228,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.12"
+          x="246.39"
           y="0"
-          width="12.00"
+          width="11.86"
           height="8"
           fill="#e34c26"
         />
@@ -238,9 +238,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.12"
+          x="248.26"
           y="0"
-          width="11.34"
+          width="11.24"
           height="8"
           fill="#239dad"
         />
@@ -248,9 +248,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.46"
+          x="249.50"
           y="0"
-          width="10.54"
+          width="10.50"
           height="8"
           fill="#b07219"
         />
@@ -260,52 +260,52 @@
     <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">TypeScript 40.51%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">TypeScript 44.72%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Rust 32.80%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Rust 30.46%</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">JavaScript 14.41%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">JavaScript 13.39%</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Python 3.91%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Python 3.63%</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Vue 2.72%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Vue 2.53%</text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 1200ms">
       <circle cx="5" cy="6" r="5" fill="#ff5a03" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Astro 2.47%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Astro 2.29%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 1350ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">CSS 1.63%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">CSS 1.54%</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 1500ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">HTML 0.80%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">HTML 0.74%</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 1650ms">
       <circle cx="5" cy="6" r="5" fill="#239dad" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Typst 0.53%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Typst 0.50%</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1800ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Java 0.22%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Java 0.20%</text>
     </g>
   </g></g>
   </g>
